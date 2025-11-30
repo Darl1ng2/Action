@@ -2,3 +2,4 @@ requests
 selenium
 beautifulsoup4
 chromedriver-autoinstaller
+lxml
